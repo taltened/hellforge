@@ -1,0 +1,41 @@
+# Component Tree
+
+- Consumer Home
+	- Mod list
+		- Controls
+			- Fav Filter
+			- Sort Options
+				- Alphabetical
+				- Last updated
+				- Recent downloads
+				- Total downloads
+				- Favorites
+			- Search
+		- Table
+			- Header
+				- Title
+				- Author
+				- Last updated
+				- Total downloads
+				- Recent downloads
+				- Favorites
+				- Favorited
+			- Body
+				- Rows
+		- Pagination
+- Producer Home
+	- New Mod
+	- Upload Mod
+	- Mod List
+- Mod Overview
+- Mod Editor
+	- Nav
+		- Overview
+		- Items
+			- Item types
+			- Base items
+			- Affixes
+			- Sets
+			- Uniques
+			- Runewords
+			- Cube Recipes
